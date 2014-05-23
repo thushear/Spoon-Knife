@@ -3,5 +3,8 @@
       KEYS h?llo 匹配 hello ， hallo 和 hxllo 等。
       KEYS h*llo 匹配 hllo 和 heeeeello 等。
       KEYS h[ae]llo 匹配 hello 和 hallo ，但不匹配 hillo 
-      
+ FLUSHDB
+ 删除当前数据库里面的所有数据，这个命令永远不会出现失败。
+ 
+ 
       
