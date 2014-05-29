@@ -1,0 +1,4 @@
+svn 更换用户名
+1.Eclipse 查看 windows > preference > Team > SVN #SVN Interface
+如果是JavaHl  则删除 C:\Users\"你的用户名"\AppData\Roaming\Subversion\auth\
+如果是 SVNKit 找到Eclipse\configuration\org.eclipse .core.runtime  删除 .keyring 文件即可
