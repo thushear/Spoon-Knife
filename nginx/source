@@ -1,1 +1,3 @@
 http://nginx.org/download/nginx-0.8.22.tar.gz
+安装gdb
+brew install https://raw.github.com/Homebrew/homebrew-dupes/master/gdb.rb
