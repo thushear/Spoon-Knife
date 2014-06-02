@@ -1,0 +1,6 @@
+mac svn 验证
+svn info https://xxx.x.xxx.xxx/svn/ios/
+xxx:代表IP地址
+然后输入
+P 
+回车
