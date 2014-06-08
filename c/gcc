@@ -1,0 +1,3 @@
+windows
+cc -o name name.c 生产name.exe
+
