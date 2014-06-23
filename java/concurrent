@@ -3,3 +3,5 @@ unix like : vmstat
 windows: perfmon
 
 程序: perfbar
+
+并发程序中对可伸缩性首要的威胁是独占的资源锁
