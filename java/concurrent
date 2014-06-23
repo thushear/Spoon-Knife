@@ -1,0 +1,5 @@
+线程上下文切换 和 内核占用时间查看工具
+unix like : vmstat
+windows: perfmon
+
+程序: perfbar
