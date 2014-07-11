@@ -6,7 +6,7 @@
 6.业务线
 http://zeromq.org/
 7.java学习深入:
-  
+  线程安全的深入
   commons-dbcp.jar
   Jdbc事务源代码
   commons-lang.jar
