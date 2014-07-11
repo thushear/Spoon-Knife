@@ -6,6 +6,7 @@
 6.业务线
 http://zeromq.org/
 7.java学习深入:
+  
   Jdbc事务源代码
   commons-lang.jar
   asm.jar
@@ -18,3 +19,7 @@ http://zeromq.org/
 8.JDMVC框架学习
 设计思想
 9.并发的理解
+10.nosql和mysql一致性问题
+
+
+
