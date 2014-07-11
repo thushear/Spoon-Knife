@@ -7,6 +7,7 @@
 http://zeromq.org/
 7.java学习深入:
   
+  commons-dbcp.jar
   Jdbc事务源代码
   commons-lang.jar
   asm.jar
@@ -16,6 +17,7 @@ http://zeromq.org/
   droid.jar
   commons-Collections.jar
   HashMap读写分离
+  
 8.JDMVC框架学习
 设计思想
 9.并发的理解
