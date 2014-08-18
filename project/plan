@@ -1,3 +1,18 @@
+--mysql?
+----乐观锁设计问题?
+----mysql事务隔离源代码设计?
+----mysql军规实战?
+--分布式
+------分布式事务设计
+------分布式CAP理论实战
+--jvm
+------jvm原理调优
+
+
+
+
+
+
 1.concurrency --> Netty -->NIO --> Tomcat -->Jetty
 2.tiny-spring-->
 3.c-->nginx-->redis
@@ -22,7 +37,17 @@ http://zeromq.org/
 设计思想
 9.并发的理解
 10.nosql和mysql一致性问题
+
+
+
 fourinone 
 
 flume
 http://www.open-open.com/doc/view/cc0bbb9e02874d99abec91e4012f582e
+
+
+
+
+
+
+
