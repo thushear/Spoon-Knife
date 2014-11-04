@@ -49,7 +49,7 @@ fourinone
 flume
 http://www.open-open.com/doc/view/cc0bbb9e02874d99abec91e4012f582e
 
-
+mvn dependency:copy-dependencies
 
 
 
