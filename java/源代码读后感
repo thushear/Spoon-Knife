@@ -1,0 +1,3 @@
+commons-pool
+框架提供了 ObjectPool 的三种不同数据结构的实现
+GenericObjectPool是基于双端链表的实现,其中borrowObject时的排队代码值得借鉴.
